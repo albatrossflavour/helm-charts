@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  owntracks:
+  - apiVersion: v2
+    appVersion: 0.8.6-12
+    created: "2022-08-25T12:53:28.005338+10:00"
+    description: A Helm chart for Kubernetes to deploy owntracks-recorder and owntracks-frontend
+    digest: 0fc82245be5701b461bb0dad4c9029bb59f2b2011dcece22421216244de90bcb
+    name: owntracks
+    type: application
+    urls:
+    - https://github.com/albatrossflavour/helm-charts/releases/download/owntracks-0.1.0/owntracks-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-25T12:53:28.005349+10:00"
